@@ -1462,10 +1462,10 @@ let cards = [
 }
     {
         artName: "squares",
-        pageLink: "./Art/squares/triangle.html",
-        imageLink: "./Art/Joy/triangle.gif",
-        author: "Joy",
-        githubLink: "https://github.com/royranger"
+        pageLink: "./Art/squares/animation.html",
+        imageLink: "./Art/squares/ani.gif",
+        author: "Annna",
+        githubLink: "https://github.com/AnnaArakelyan909"
     }
 ];
 
